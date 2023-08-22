@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+td{
+	border:1px solid black;
+}
+th{
+	border:1px solid black;
+}
